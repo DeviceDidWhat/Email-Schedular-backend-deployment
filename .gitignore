@@ -1,0 +1,15 @@
+# Ignore build artifacts and secret files
+target/
+*.class
+*.jar
+*.log
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# OS-specific files
+Thumbs.db
+.DS_Store
